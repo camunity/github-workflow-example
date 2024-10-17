@@ -8,7 +8,7 @@ function App() {
 
   return (
    <>
-   <h1> Yo this is my version of Vite! </h1>
+   <h1> Yo this is another version of my app! </h1>
    </>
   )
 }
